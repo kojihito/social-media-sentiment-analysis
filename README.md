@@ -1,1 +1,1 @@
-```pip install -r requirements``` before run
+```pip install -r requirements.txt``` before run
